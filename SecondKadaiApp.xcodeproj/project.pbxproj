@@ -14,6 +14,7 @@
 		4B5ABAAB208C6E5500203F1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B5ABAA9208C6E5500203F1B /* LaunchScreen.storyboard */; };
 		4B5ABAB6208C6E5500203F1B /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5ABAB5208C6E5500203F1B /* SecondKadaiAppTests.swift */; };
 		4B5ABAC1208C6E5500203F1B /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5ABAC0208C6E5500203F1B /* SecondKadaiAppUITests.swift */; };
+		4B5ABACF208C702500203F1B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5ABACE208C702500203F1B /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4B5ABABC208C6E5500203F1B /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5ABAC0208C6E5500203F1B /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		4B5ABAC2208C6E5500203F1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B5ABACE208C702500203F1B /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				4B5ABAA7208C6E5500203F1B /* Assets.xcassets */,
 				4B5ABAA9208C6E5500203F1B /* LaunchScreen.storyboard */,
 				4B5ABAAC208C6E5500203F1B /* Info.plist */,
+				4B5ABACE208C702500203F1B /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				4B5ABAA3208C6E5400203F1B /* ViewController.swift in Sources */,
 				4B5ABAA1208C6E5400203F1B /* AppDelegate.swift in Sources */,
+				4B5ABACF208C702500203F1B /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
